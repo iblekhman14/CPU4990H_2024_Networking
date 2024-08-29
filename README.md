@@ -1,26 +1,35 @@
-WIP
+README is still a WIP
+
 
 Plan of action:
-I plan on spreading the timeline out across the full 15 weeks of the semester, most likely into three
-sections. The first and longest section will be doing analysis of the high and low density areas and
-calculating a variety of factors. I will then go in and manually collect the data and verify whether the
-initial theories and expectations were correct. Once I do that I will conduct an analysis on the data,
-and run simulation models to predict whether my proposed changes would help, reduce bandwith
-congestion. Finally I will organize all my data and results and draw a conclusion from them and
-make the poster. I would like everything other than the poster to be done by december 1st of the fall
-semester, so to leave myself ample time for creating a poster and wrapping up all other work.
+I plan to spread the project timeline across the full 15 weeks of the semester, most likely into three sections. The first and longest section will analyze high and low-density areas and calculate various factors. I will then manually collect data to verify initial theories and expectations. After that, I will analyze the data and run simulation models to predict whether my proposed changes would help reduce bandwidth congestion. Finally, I will organize all my data and results, draw conclusions, and create the poster. I aim to complete everything except the poster by December 1st of the fall semester, to leave myself ample time for making the poster and wrapping up all other work.
 
-So to summarize:
-weeks 1-2: Acquiring any hardware or software that is necessary as well as initial hypothesis
-weeks 3-8: Gathering data, and completing projections
-weeks 7-10: Analysis of data
-weeks 9-12: Drawing conclusions, implementing improved model
-weeks 13-15: Concluding project, making poster
+As a note 8/29/2024 around 1-3pm the school had a sitewide partial outage over wifi.
 
-General Hypothesis: Speeds slow down to high congestion. Download is vulnerable to the wims of an upload test.
+To summarize:
+Weeks 1-2: Acquire any necessary hardware or software and form initial hypotheses.
+Weeks 3-8: Gather data and complete projections.
+Weeks 7-10: Analyze data. Most likely python scripts to scrape mean median and all that.
+Weeks 9-12: Conclude, and propose an improved model/suggestions.
+Weeks 13-15: Conclude the project, and make the poster.
 
+General Hypothesis: Speeds slow down due to high congestion. Downloads are vulnerable to the whims of an upload test.
+Too many students using access points or are there too many students on the internet in general?
+Could be a single problem or a combination of multiple problems such as the access point being overloaded, the router overloaded, are we lacking bandwidth for the school?
+
+Tools Used:
 
 Testing methodologies:
-Methods that might need to be done to put strain on a network and possibly isolate issues...
-* Downloading a large file from a known high speed server on one device and run a ping and speedtest in parallel on another device measuring changes from one to another. Similarly test this theory with an upload test.
-* 
+Methods that might need to be done to put strain on a network and isolate issues...
+- Downloading a large file from a known high-speed server on one device and running a ping and speed test in parallel on another device to measure changes. Similarly, testing this theory with an upload test.
+
+- Running a speed test between two devices locally. Device 1 -> access point -> Device 2. Possibly Device1 -> access point -> Router -> access point -> Device 2.
+
+- Run a multitude of ping tests.
+  One such idea is maybe testing using a wired device compared to a wireless to see if it's a wireless access point problem or if the routers a level above are causing it to fail.
+
+- Speak to IT to ask what they might consider to be an issue. Ask about architecture.
+
+Potential Solutions:
+
+- 
