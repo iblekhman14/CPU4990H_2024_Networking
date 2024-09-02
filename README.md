@@ -17,6 +17,10 @@ General Hypothesis: Speeds slow down due to high congestion. Downloads are vulne
 Too many students using access points or are there too many students on the internet in general?
 Could be a single problem or a combination of multiple problems such as the access point being overloaded, the router overloaded, are we lacking bandwidth for the school?
 
+Campus Network Hardware:
+Cpp village uses some variation of the Aruba campus 303/305 models.
+Library uses some ..
+
 Tools Used:
 
 Testing methodologies:
