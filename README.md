@@ -5,6 +5,7 @@ Plan of action:
 I plan to spread the project timeline across the full 15 weeks of the semester, most likely into three sections. The first and longest section will analyze high and low-density areas and calculate various factors. I will then manually collect data to verify initial theories and expectations. After that, I will analyze the data and run simulation models to predict whether my proposed changes would help reduce bandwidth congestion. Finally, I will organize all my data and results, draw conclusions, and create the poster. I aim to complete everything except the poster by December 1st of the fall semester, to leave myself ample time for making the poster and wrapping up all other work.
 
 As a note 8/29/2024 around 1-3pm the school had a sitewide partial outage over wifi.
+I believe the outage on 9/3/2024 was also related to the same issue as before.
 
 To summarize:
 Weeks 1-2: Acquire any necessary hardware or software and form initial hypotheses.
@@ -16,6 +17,7 @@ Weeks 13-15: Conclude the project, and make the poster.
 General Hypothesis: Speeds slow down due to high congestion. Downloads are vulnerable to the whims of an upload test.
 Too many students using access points or are there too many students on the internet in general?
 Could be a single problem or a combination of multiple problems such as the access point being overloaded, the router overloaded, are we lacking bandwidth for the school?
+Possibly an issue with the way eduroam is configured. Not enough ip addresses or maybe radius server...?
 
 Campus Network Hardware:
 Cpp village uses some variation of the Aruba campus 303/305 models.
