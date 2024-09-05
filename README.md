@@ -38,4 +38,6 @@ Methods that might need to be done to put strain on a network and isolate issues
 
 Potential Solutions:
 
+- QOS?
+- More devices?
 - 
