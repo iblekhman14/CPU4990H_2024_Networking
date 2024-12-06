@@ -23,6 +23,10 @@ The project will be structured into three main phases over the 15-week semester:
 
 - **8/29/2024 (1–3 PM):** A school-wide partial Wi-Fi outage occurred.  
 - **9/3/2024:** A similar Wi-Fi outage occurred, likely related to the same underlying issue.
+- **9/6/2024:** Final Wi-Fi outage occurred, likely related to the same underlying issue.
+- **9/13/2024:** Campus IT resolved reported issues.
+
+
 
 ## Detailed Timeline
 
